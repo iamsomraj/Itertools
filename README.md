@@ -1,6 +1,10 @@
 # Itertool
 Itertool is a repository where I have learnt several itertool functions and implemented the same
 
+## Objective
+
+The only objective is to learn the functions and it's usage so that I can later use these.
+
 ## Developer
 
 LinkedIn : [iamsomraj](https://www.linkedin.com/in/iamsomraj/) 😊
